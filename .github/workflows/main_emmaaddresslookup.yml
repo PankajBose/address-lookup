@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'emmaaddresslookup'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_966D5C5FDD994C92ABE8D3D7B80A1527 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA8995643A7D47338CA012DE25B94F1B }}
           package: '*.jar'
